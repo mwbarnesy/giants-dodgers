@@ -1,5 +1,9 @@
 # giants-dodgers
 <br>
+The New York Giants and Brooklyn Dodgers rivalry is as alive now as it ever was, and is <a href = "https://en.wikipedia.org/wiki/Dodgers%E2%80%93Giants_rivalry">"regarded as one of the most competitive and longest-standing rivalries in American baseball, with some observers considering it the greatest sports rivalry of all time."</a>
+<br>
+My aim with this analysis is to provide an insight for anyone who is considering joining a side in this rivalry. Who is the best team? Who deserves your vote?
+<br>
 Who is the better all-time baseball team, the San Francisco Giants, or the Los Angeles Dodgers? 
 <br>
 <br>
@@ -12,16 +16,24 @@ you can find a data dictionary <a href = "http://www.seanlahman.com/files/databa
 <b>Questions to answer:</b>
 <br>
 <br>
-<ul>
-  <li>1. Which team has the most wins?</li>
+<ol>
+  <li>Which team is the most winningest?
 <br>
   <ul>
     <li>World Series Wins</li>
     <li>National League Championship Titles</li>
     <li>National League Division Titles (since 1969)</li>
     <li>All time wins</li>
+    <li>Performance since 1957</li>
+  </li>
   </ul>
-  <li>2. 
+  <li>Which team performs better?
+  <ul>
+    <li>Offensively?</li>
+    <li>Defensively?</li>
+  </li>  
+  </ul>
+  <li>
    
   
   
